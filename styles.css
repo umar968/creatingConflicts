@@ -1,6 +1,9 @@
+body{
+  background-color: blanchedalmond !important;
+}
 #productForm {
   display: none;
-  position: absolute;
+  position: fixed;
 }
 
 .error {
